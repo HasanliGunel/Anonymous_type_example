@@ -1,0 +1,12 @@
+C:\Users\gunel\Desktop\C#\Numuneler\Anonymous_type_example\Anonymous_type_example_1\bin\Debug\netcoreapp3.1\Anonymous_type_example_1.exe
+C:\Users\gunel\Desktop\C#\Numuneler\Anonymous_type_example\Anonymous_type_example_1\bin\Debug\netcoreapp3.1\Anonymous_type_example_1.deps.json
+C:\Users\gunel\Desktop\C#\Numuneler\Anonymous_type_example\Anonymous_type_example_1\bin\Debug\netcoreapp3.1\Anonymous_type_example_1.runtimeconfig.json
+C:\Users\gunel\Desktop\C#\Numuneler\Anonymous_type_example\Anonymous_type_example_1\bin\Debug\netcoreapp3.1\Anonymous_type_example_1.runtimeconfig.dev.json
+C:\Users\gunel\Desktop\C#\Numuneler\Anonymous_type_example\Anonymous_type_example_1\bin\Debug\netcoreapp3.1\Anonymous_type_example_1.dll
+C:\Users\gunel\Desktop\C#\Numuneler\Anonymous_type_example\Anonymous_type_example_1\bin\Debug\netcoreapp3.1\Anonymous_type_example_1.pdb
+C:\Users\gunel\Desktop\C#\Numuneler\Anonymous_type_example\Anonymous_type_example_1\obj\Debug\netcoreapp3.1\Anonymous_type_example_1.AssemblyInfoInputs.cache
+C:\Users\gunel\Desktop\C#\Numuneler\Anonymous_type_example\Anonymous_type_example_1\obj\Debug\netcoreapp3.1\Anonymous_type_example_1.AssemblyInfo.cs
+C:\Users\gunel\Desktop\C#\Numuneler\Anonymous_type_example\Anonymous_type_example_1\obj\Debug\netcoreapp3.1\Anonymous_type_example_1.csproj.CoreCompileInputs.cache
+C:\Users\gunel\Desktop\C#\Numuneler\Anonymous_type_example\Anonymous_type_example_1\obj\Debug\netcoreapp3.1\Anonymous_type_example_1.dll
+C:\Users\gunel\Desktop\C#\Numuneler\Anonymous_type_example\Anonymous_type_example_1\obj\Debug\netcoreapp3.1\Anonymous_type_example_1.pdb
+C:\Users\gunel\Desktop\C#\Numuneler\Anonymous_type_example\Anonymous_type_example_1\obj\Debug\netcoreapp3.1\Anonymous_type_example_1.genruntimeconfig.cache

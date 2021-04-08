@@ -1,0 +1,13 @@
+C:\Users\gunel\Desktop\C#\Numuneler\Anonymous_type_example\Lambda_expression_example 1\bin\Debug\netcoreapp3.1\Lambda_expression_example 1.exe
+C:\Users\gunel\Desktop\C#\Numuneler\Anonymous_type_example\Lambda_expression_example 1\bin\Debug\netcoreapp3.1\Lambda_expression_example 1.deps.json
+C:\Users\gunel\Desktop\C#\Numuneler\Anonymous_type_example\Lambda_expression_example 1\bin\Debug\netcoreapp3.1\Lambda_expression_example 1.runtimeconfig.json
+C:\Users\gunel\Desktop\C#\Numuneler\Anonymous_type_example\Lambda_expression_example 1\bin\Debug\netcoreapp3.1\Lambda_expression_example 1.runtimeconfig.dev.json
+C:\Users\gunel\Desktop\C#\Numuneler\Anonymous_type_example\Lambda_expression_example 1\bin\Debug\netcoreapp3.1\Lambda_expression_example 1.dll
+C:\Users\gunel\Desktop\C#\Numuneler\Anonymous_type_example\Lambda_expression_example 1\bin\Debug\netcoreapp3.1\Lambda_expression_example 1.pdb
+C:\Users\gunel\Desktop\C#\Numuneler\Anonymous_type_example\Lambda_expression_example 1\obj\Debug\netcoreapp3.1\Lambda_expression_example 1.csprojAssemblyReference.cache
+C:\Users\gunel\Desktop\C#\Numuneler\Anonymous_type_example\Lambda_expression_example 1\obj\Debug\netcoreapp3.1\Lambda_expression_example 1.AssemblyInfoInputs.cache
+C:\Users\gunel\Desktop\C#\Numuneler\Anonymous_type_example\Lambda_expression_example 1\obj\Debug\netcoreapp3.1\Lambda_expression_example 1.AssemblyInfo.cs
+C:\Users\gunel\Desktop\C#\Numuneler\Anonymous_type_example\Lambda_expression_example 1\obj\Debug\netcoreapp3.1\Lambda_expression_example 1.csproj.CoreCompileInputs.cache
+C:\Users\gunel\Desktop\C#\Numuneler\Anonymous_type_example\Lambda_expression_example 1\obj\Debug\netcoreapp3.1\Lambda_expression_example 1.dll
+C:\Users\gunel\Desktop\C#\Numuneler\Anonymous_type_example\Lambda_expression_example 1\obj\Debug\netcoreapp3.1\Lambda_expression_example 1.pdb
+C:\Users\gunel\Desktop\C#\Numuneler\Anonymous_type_example\Lambda_expression_example 1\obj\Debug\netcoreapp3.1\Lambda_expression_example 1.genruntimeconfig.cache
